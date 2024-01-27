@@ -45,4 +45,17 @@ Pour trouver la liste des emojis disponnible avec GitHub: [Liste des emojis](htt
   
 C'est super fun Git & GitHub :rofl:  
 
+# Listes  
+
+## Liste simple  
+* Element A  
+* Element B  
+* Element C  
+
+## Liste ordonées  
+1. Carottes  
+2. Choux  
+3. Lentilles  
+
+
 
