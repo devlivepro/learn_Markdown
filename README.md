@@ -37,4 +37,12 @@ Lien vers un autre fichier [vers test.md](test.md)
 
 # Ajouter une image
 
-![Logo](https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png).
+![Logo](https://lthub.ubc.ca/files/2021/06/GitHub-Logo.png)  
+
+# Ajouter un emoji  
+
+Pour trouver la liste des emojis disponnible avec GitHub: [Liste des emojis](https//github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)  
+  
+C'est super fun Git & GitHub :rofl:  
+
+
