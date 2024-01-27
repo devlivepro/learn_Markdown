@@ -64,6 +64,6 @@ C'est super fun Git & GitHub :rofl:
     * Element 1.A.2
 
 ## TO Do
-* [] Roquefort
+* [ ] Roquefort
 * [x] Cantal
-* [] Emmental
+* [ ] Emmental
