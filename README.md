@@ -58,8 +58,8 @@ C'est super fun Git & GitHub :rofl:
 3. Lentilles  
 
 ## Liste imbriquées  
-* Element 1
-    *Element 1.A
+* Element 1  
+    *Element 1.A  
         *Element 1.A.1
         *Element 1.A.1
 
